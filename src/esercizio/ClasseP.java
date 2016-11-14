@@ -14,6 +14,7 @@ import java.util.logging.Logger;
  */
 public class ClasseP extends Thread
 {
+	//sono nerucci
     private  int[]vettore;
 
     public ClasseP(int[] vettore) {
