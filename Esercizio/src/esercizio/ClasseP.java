@@ -13,7 +13,8 @@ import java.util.logging.Logger;
  * @author lorenzo
  */
 public class ClasseP extends Thread
-{
+{ 
+    //Aggiornamento 14 Novembre
     private  int[]vettore;
 
     public ClasseP(int[] vettore) {
